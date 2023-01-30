@@ -1,2 +1,0 @@
-Hello 
-DB related code
